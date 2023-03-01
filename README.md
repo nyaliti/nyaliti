@@ -12,6 +12,10 @@
  <a href="https://twitter.com/NyalitiBryson">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/20423423/bryson">
+  <img src="https://img.shields.io/badge/Stack Overflow-grey?style=for-the-badge&logo=stack-overflow&logoColor=orange" alt="Stack Overflow Badge"/>
+</a>
+
   
 </div>
 
