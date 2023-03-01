@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hello+once+again!; Bryson+here!;let+us+connect!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hello+once+again!; Bryson+here!;let+us+connect+on+socials! &font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 
@@ -23,12 +23,16 @@
 
 
 
- <a href="https://twitter.com/NyalitiBryson">
+<!-- social badges --> 
+  <a href="https://twitter.com/NyalitiBryson">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/20423423/bryson">
   <img src="https://img.shields.io/badge/Stack Overflow-grey?style=for-the-badge&logo=stack-overflow&logoColor=orange" alt="Stack Overflow Badge"/>
 </a>
+  <a href="https://www.linkedin.com/in/bryson-nyaliti-99b2861b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
   
 </div>
