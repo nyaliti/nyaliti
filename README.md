@@ -1,4 +1,4 @@
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31tw6stqddzc7xh5w2cwj53umzmu)
+
 
 <div id="header" allign="center">
 <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"
@@ -88,3 +88,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![bryson's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nyaliti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![bryson's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nyaliti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nyaliti/github-readme-stats#gh-light-mode-only)
 
+---
+
+### :fire: Recent spotify playlist :
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31tw6stqddzc7xh5w2cwj53umzmu)
