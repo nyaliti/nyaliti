@@ -35,6 +35,44 @@
 </div>
 
 ---
+<!---
+[![Bryson Omullo's github activity graph](https://activity-graph.herokuapp.com/graph?username=nyaliti&theme=dracula&area=true)](https://github.com/nyaliti)
+<br>
+
+
+
+
+
+<br><details> <summary align="center"> </samp></summary>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/nyaliti/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/nyaliti/main/new.gif" height=340/>
+</p></details>
+ 
+
+
+ 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Bryson Omullo Spotify Playing" width="350" />](https://open.spotify.com/playlist/31tw6stqddzc7xh5w2cwj53umzmu)</div><br>
+<div align="center">
+-->
+
+<div align="center">
+  
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nyaliti}/count.svg" /></p> 
+<br></div>
+
+
+
+
+
+
 
 
 
