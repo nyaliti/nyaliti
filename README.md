@@ -23,7 +23,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyaliti&theme=tokyonight" align="center" />
 </p>
 
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
+---
+
+<div align="center">
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nyaliti&column=7"/>
+  </a>
+</div>
+
+---
 
 
 
