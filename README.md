@@ -65,7 +65,7 @@
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nyaliti}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://camo.githubusercontent.com/3df700f2bbb0b64c496b7d77ccdb377a8d71faf59da5889f8c07a52bb177cf0c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e79616c697469267374796c653d666c61742d73717561726526636f6c6f723d626c7565" /></p> 
 <br></div>
 
 
