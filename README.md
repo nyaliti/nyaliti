@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Bryson Omullo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Fullstack+Developer;Programmer;Tech-savvy+person+from+Kenya)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/nyaliti/nyaliti/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️
 
