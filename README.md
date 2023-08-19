@@ -77,37 +77,6 @@
 
 
 
-
-
-
-
-
-
-
-<div id="header" allign="center">
-<img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"
-</div>
-<div id="badges">
-<img src="https://komarev.com/ghpvc/?username=nyaliti&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-
-<!-- markdownlint-disable MD033 MD041 -->
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hello+once+again!; Bryson+here!;let+us+connect+on+socials! &font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-
-
-<!-- markdownlint-enable MD033 -->
-
-
-
 <!-- social badges --> 
   <a href="https://twitter.com/NyalitiBryson">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
