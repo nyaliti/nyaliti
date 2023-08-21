@@ -17,12 +17,13 @@
 <br>
 
 ## 📊 My Github Stats
-<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nyaliti)](https://git.io/streak-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyaliti)
+## GitHub Stats
 
-  
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nyaliti)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nyaliti&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyaliti&layout=compact)
+
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
