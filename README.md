@@ -17,7 +17,6 @@
 <br>
 
 ## 📊 My Github Stats
-## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nyaliti)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nyaliti&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
