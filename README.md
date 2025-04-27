@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/nyaliti/nyaliti/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️
-- 💻 I’m currently working on something cool :wink: ;
+- 💻 I’m currently working on something cool :wink: 
 
 - <img src="https://github.com/nyaliti/nyaliti/blob/main/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
